@@ -36,7 +36,7 @@ It was developed as part of my Data Science coursework to demonstrate skills in 
 ---
 
 ## Dashboard Preview
-![Heart Disease Dashboard](./screenshot.png)  
+<img width="785" height="430" alt="Capture d’écran 2025-09-28 231349" src="https://github.com/user-attachments/assets/f9037079-685c-4168-b43b-54b0ff912e3b" />
 *(Example visualization of the dashboard in Power BI)*  
 
 ---
